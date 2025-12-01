@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data
+data/raw/
+data/processed/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Pytest
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+secrets.json
